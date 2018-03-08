@@ -4,7 +4,7 @@
 
 ---
 
-*  Causality driven Neural Net (implementation)
+*  Causality driven Neural Net (implementation)  
  [DeepIV (website)](http://proceedings.mlr.press/v70/hartford17a.html)  
  [DeepIV (paper)](http://proceedings.mlr.press/v70/hartford17a/hartford17a.pdf)  
  [DeepIV (supplemental paper)](http://proceedings.mlr.press/v70/hartford17a/hartford17a-supp.pdf)
