@@ -14,28 +14,40 @@
 
 ---
 
-*  Causality driven Neural Net (implementation)  
- [DeepIV (repo)](https://github.com/jhartford/DeepIV)  
- [DeepIV (website)](http://proceedings.mlr.press/v70/hartford17a.html)  
- [DeepIV (paper)](http://proceedings.mlr.press/v70/hartford17a/hartford17a.pdf)  
- [DeepIV (supplemental paper)](http://proceedings.mlr.press/v70/hartford17a/hartford17a-supp.pdf)
+*  Causality    
+   _(deep learning)_  
+   _(implementation)_  
+   [DeepIV: Counterfactual Prediction using Instrument Variables (website)](http://proceedings.mlr.press/v70/hartford17a.html)  
+   [DeepIV: Counterfactual Prediction using Instrument Variables (repo)](https://github.com/jhartford/DeepIV)  
+   [A Minimax Surrogate Loss Approach to Causal Inference (paper)](http://web.mit.edu/stgoh/www/mypage/causalwebsite.pdf)  
 
-*  Infinitely differentiable loss function for RL (implementation and analysis)
- [DiCE: The Infinitely Differentiable Monte Carlo Estimator](https://arxiv.org/pdf/1802.05098.pdf)
+*  Infinitely differentiable loss function [(Monte Carlo Estimator)](https://en.wikipedia.org/wiki/Monte_Carlo_method)  
+   _(optimization)_  _(deep learning)_ _(reinforcement learning)_  
+   _(implementation)_  
+   [DiCE: The Infinitely Differentiable Monte Carlo Estimator (website)](https://arxiv.org/abs/1802.05098)  
 
-*  Automatic generation of surrogate loss functions given a non-differentiable loss functions
-  (and proving equivalence..)  
- [surrogate loss functions (blog post)](http://fa.bianp.net/blog/2014/surrogate-loss-functions-in-machine-learning/)  
- [ML for non-differentiable loss functions (blog post)](http://khanhxnguyen.com/machine-learning-non-differentiable-loss-functions/)
+*  Automatic generation of [surrogate loss functions](https://stats.stackexchange.com/a/267509/147296) given non-differentiable loss functions ([ACKTR, A2C](https://blog.openai.com/baselines-acktr-a2c/), [PPO](https://blog.openai.com/openai-baselines-ppo/))  
+   _(optimization)_  
+   _(implementation)_ _(theory)_  
+   [Surrogate Loss Functions (blog post)](http://fa.bianp.net/blog/2014/surrogate-loss-functions-in-machine-learning/)  
+   [ML for non-differentiable Loss Functions (blog post)](http://khanhxnguyen.com/machine-learning-non-differentiable-loss-functions/)  
+   [Comparing Loss Functions by Risk (paper)](http://www.isa.uni-stuttgart.de/Steinwart/Publikationen/2007/Steinwart07a.pdf)  
+   [Surrogate Loss Functions and ƒ-divergences (paper)](https://projecteuclid.org/download/pdfview_1/euclid.aos/1236693153)  
+   
+* Information Retrieval  
+  _(probabilistic graphical models)_  
+  _(implementation)_  
+  [Credibility Analysis (website)](https://arxiv.org/abs/1707.08309)  
+  [Latent Credibility Analysis (website)](https://experts.illinois.edu/en/publications/latent-credibility-analysis)  
+  [Information Credibility (website)](https://link.springer.com/chapter/10.1007/978-3-319-29175-8_12)  
+  [Dissertation (website)](https://smartech.gatech.edu/handle/1853/55646)  
 
-* Information Retrieval using Probabilistic Graphical Models  
-  [Probabilistic Graphical Models for Credibility Analysis in Evolving Online Communities](https://arxiv.org/abs/1707.08309)
-  [Latent Credibility Analysis](https://experts.illinois.edu/en/publications/latent-credibility-analysis)
-  [Information Credibility: A Probabilistic Graphical Model for Identifying Credible Influenza Posts on Social Media](https://link.springer.com/chapter/10.1007/978-3-319-29175-8_12)
-  [Social computing for personalization and credible information mining using probabilistic graphical models](https://smartech.gatech.edu/handle/1853/55646)
-
-* Compound Figure Separation using Convolutional Neural Network  
-  [A Data Driven Approach to Compound Figure Separation using CNN](https://arxiv.org/abs/1703.05105)
-  
+* Compound Figure Separation  
+  _(deep learning)_ _(convolutional neural networks)_  
+  _(implementation)_  
+  [Compound Figure Separation using CNN (website)](https://arxiv.org/abs/1703.05105)
+ 
+* Transfer Learning   
+  [Overcoming Data Scarcity with Transfer Learning (website)](https://arxiv.org/abs/1711.05099)  
 
 ---
