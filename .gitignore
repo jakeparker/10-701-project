@@ -1,4 +1,13 @@
+#############
+### MacOS ###
+#############
+
+.DS_Store
+Icon
+
+##############
 ### Python ###
+##############
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -13,13 +22,20 @@ __pycache__/
 # Jupyter Notebook
 .ipynb_checkpoint
 
+
+#############
 ### Julia ###
+#############
+
 *.jl.cov
 *.jl.*.cov
 *.jl.mem
 deps/deps.jls
 
+
+#############
 ### LaTeX ###
+#############
 
 ## Core latex/pdflatex auxiliary files:
 *.aux

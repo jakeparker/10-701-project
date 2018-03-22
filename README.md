@@ -1,10 +1,21 @@
 # 10-701 Project
 
+## Project Proposal Rubric
+*  [NIPS format](https://nips.cc/Conferences/2017/PaperInformation/StyleFiles) (one page excluding references, no abstract needed)  
+*  A well-stated problem that you plan to explore  
+*  The motivation behind this problem  
+*  Relevant prior work (or similar work), if any  
+*  Your proposed idea/method/approach  
+*  How do you plan to implement your approach (e.g. for deep learning, tensorflow/pytorch/...?)  
+*  A timeline of this project (just give an estimate), and what dataset you plan to use  
+
+
 ## Potential Project Ideas
 
 ---
 
 *  Causality driven Neural Net (implementation)  
+ [DeepIV (repo)](https://github.com/jhartford/DeepIV)  
  [DeepIV (website)](http://proceedings.mlr.press/v70/hartford17a.html)  
  [DeepIV (paper)](http://proceedings.mlr.press/v70/hartford17a/hartford17a.pdf)  
  [DeepIV (supplemental paper)](http://proceedings.mlr.press/v70/hartford17a/hartford17a-supp.pdf)
