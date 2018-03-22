@@ -20,10 +20,10 @@
  [DeepIV (paper)](http://proceedings.mlr.press/v70/hartford17a/hartford17a.pdf)  
  [DeepIV (supplemental paper)](http://proceedings.mlr.press/v70/hartford17a/hartford17a-supp.pdf)
 
-*  infinitely differentiable loss function for RL (implementation and analysis)  
+*  Infinitely differentiable loss function for RL (implementation and analysis)
  [DiCE: The Infinitely Differentiable Monte Carlo Estimator](https://arxiv.org/pdf/1802.05098.pdf)
 
-*  automatic generation of surrogate loss functions given a non-differentiable loss functions
+*  Automatic generation of surrogate loss functions given a non-differentiable loss functions
   (and proving equivalence..)  
  [surrogate loss functions (blog post)](http://fa.bianp.net/blog/2014/surrogate-loss-functions-in-machine-learning/)  
  [ML for non-differentiable loss functions (blog post)](http://khanhxnguyen.com/machine-learning-non-differentiable-loss-functions/)
@@ -34,8 +34,8 @@
   [Information Credibility: A Probabilistic Graphical Model for Identifying Credible Influenza Posts on Social Media](https://link.springer.com/chapter/10.1007/978-3-319-29175-8_12)
   [Social computing for personalization and credible information mining using probabilistic graphical models](https://smartech.gatech.edu/handle/1853/55646)
 
-* Compound Figure Seperation using Convolutional Neural Network  
-  [A Data Driven Approach to Compound Figure Seperation using CNN](https://arxiv.org/abs/1703.05105)
+* Compound Figure Separation using Convolutional Neural Network  
+  [A Data Driven Approach to Compound Figure Separation using CNN](https://arxiv.org/abs/1703.05105)
   
 
 ---
