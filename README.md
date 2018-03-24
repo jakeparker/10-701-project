@@ -16,36 +16,36 @@
 
 *  Compound Figure Separation  
    _(deep learning)_ _(convolutional neural networks)_  
-   *  Compound Figure Separation using CNN [(arxiv)](https://arxiv.org/abs/1703.05105) [(paper)](http://ceur-ws.org/Vol-1391/25-CR.pdf)   
+   *  Compound Figure Separation using CNN [(abstract)](https://arxiv.org/abs/1703.05105) [(paper)](http://ceur-ws.org/Vol-1391/25-CR.pdf)   
    *  Crowdsourcing for Compound Figure Annotation [(paper)](https://lhncbc.nlm.nih.gov/system/files/pub9437.pdf) 
    *  Automatic Seperation of Compound Figures [(paper)](http://www-itec.uni-klu.ac.at/bib/files/fig-separation-mtap.pdf)   
-   *  ImageCLEFmed 2016 [(dataset)](http://www.imageclef.org/2016/medical)  
-   *  ImageCLEFmed 2015 [(dataset)](http://www.imageclef.org/2015/medical)  
-   *  FigureQA [(dataset)](https://arxiv.org/abs/1710.07300) [(website)](https://datasets.maluuba.com/FigureQA)  
+   *  ImageCLEFmed 2016 [(abstract)](http://www.imageclef.org/2016/medical)  
+   *  ImageCLEFmed 2015 [(abstract)](http://www.imageclef.org/2015/medical)  
+   *  FigureQA [(abstract)](https://arxiv.org/abs/1710.07300) [(paper)](https://arxiv.org/pdf/1710.07300.pdf) [(website)](https://datasets.maluuba.com/FigureQA)  
    *  Scalable Algorithms for Scholarly Figure Mining [(slides)](https://www.ifis.uni-luebeck.de/~groppe/sbd/resources/2016/slides/SBD16-s1-t2.pdf)  
  
  
 *  Transfer Learning   
-   *  Overcoming Data Scarcity with Transfer Learning [(arxiv)](https://arxiv.org/abs/1711.05099)  
+   *  Overcoming Data Scarcity with Transfer Learning [(abstract)](https://arxiv.org/abs/1711.05099)  
 
 
 *  Causality  
    _(experimental design)_  _(counterfactual prediction)_ _(deep learning)_  
-   *  DeepIV: Counterfactual Prediction using Instrument Variables [(website)](http://proceedings.mlr.press/v70/hartford17a.html) [(github)](https://github.com/jhartford/DeepIV)  
+   *  DeepIV: Counterfactual Prediction using Instrument Variables [(abstract)](http://proceedings.mlr.press/v70/hartford17a.html) [(github)](https://github.com/jhartford/DeepIV)  
    *  A Minimax Surrogate Loss Approach to Causal Inference [(paper)](http://web.mit.edu/stgoh/www/mypage/causalwebsite.pdf)  
 
 
 *  Information Retrieval  
    _(probabilistic graphical models)_  
-   *  Credibility Analysis [(arxiv)](https://arxiv.org/abs/1707.08309)  
-   *  Latent Credibility Analysis [(website)](https://experts.illinois.edu/en/publications/latent-credibility-analysis)  
-   *  Information Credibility [(website)](https://link.springer.com/chapter/10.1007/978-3-319-29175-8_12)  
-   *  Dissertation [(website)](https://smartech.gatech.edu/handle/1853/55646)  
+   *  Credibility Analysis [(abstract)](https://arxiv.org/abs/1707.08309)  
+   *  Latent Credibility Analysis [(abstract)](https://experts.illinois.edu/en/publications/latent-credibility-analysis)  
+   *  Information Credibility [(abstract)](https://link.springer.com/chapter/10.1007/978-3-319-29175-8_12)  
+   *  Dissertation [(abstract)](https://smartech.gatech.edu/handle/1853/55646) [(paper)](https://smartech.gatech.edu/bitstream/handle/1853/55646/ZOU-DISSERTATION-2016.pdf?sequence=1&isAllowed=y)  
 
 
 *  Infinitely differentiable loss function [(Monte Carlo Estimator)](https://en.wikipedia.org/wiki/Monte_Carlo_method)  
    _(optimization)_  _(deep learning)_ _(reinforcement learning)_  
-   *  DiCE: The Infinitely Differentiable Monte Carlo Estimator [(arxiv)](https://arxiv.org/abs/1802.05098)  
+   *  DiCE: The Infinitely Differentiable Monte Carlo Estimator [(abstract)](https://arxiv.org/abs/1802.05098)  
 
 
 *  Automatic generation of [surrogate loss functions](https://stats.stackexchange.com/a/267509/147296) given non-differentiable loss functions ([ACKTR, A2C](https://blog.openai.com/baselines-acktr-a2c/), [PPO](https://blog.openai.com/openai-baselines-ppo/))  
