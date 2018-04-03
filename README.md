@@ -2,6 +2,21 @@
 
 ---
 
+## Milestone/Midway Report Rubric
+**Page length:** 4 pages, excluding references
+**Format:** NIPS
+**Sections:**
+  1.  _Introduction_: What are you trying to solve? Why is it important?
+  2.  _Related work_: Prior works related to your topic; any baselines you are comparing to?
+  3. _Methods_: What methods have you tried? How do you hope to improve on the work which you have already done after this report?  What is your motivation behind these techniques? (You are highly encouraged to come up with an original idea of your own or interesting applications rather than simply implementing or applying existing ML algorithms) 
+  4.  _Dataset_: Name + description of the dataset (e.g. CIFAR-10, ImageNet, etc.).  It is important to explain this at least briefly so we can accurately evaluate the methods applied to your problem. What are your inputs and outputs? Do you need to pre-process your dataset?
+  5.  _Preliminary Results_: Analyze and explain, if available. What do the results imply about your methods?
+  6.  _Timeline and Division of work_: Did you meet the goal for midway report you set in the project proposal? Provide a rough timeline of your plan ahead and job to be done by each team member.
+  7.  _References_: Clean and correctly formatted citations and bibliography.
+  8.  _Clarity of writing_: The report should be organized clearly and well written.
+
+---
+
 ## Project Topic
 
 *  Molecular Machine Learning  
