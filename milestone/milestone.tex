@@ -22,6 +22,7 @@
 \usepackage{microtype}      % microtypography
 \usepackage{graphicx}
 \usepackage{amsmath}
+\graphicspath{{graphics/}}
 
 \title{Using Molecules for Machine-Learning Chemistry via MoleculeNet}
 
@@ -151,7 +152,7 @@ The random forest is similar to the boosted decision trees we covered in lecture
 
 The validation set was used to optimize hyperparameters. We generally used a grid search test of hyperparameters, testing each combination to maximize some accuracy metric on the validation set.
 
-\section{Results}
+\section{Preliminary Results}
 
 We fit a number of random forests to the ESOL data-set to assess prediction accuracy. The first set split the data-set via Bemis Burcko scaffold, and optimized hyper-parameters to 100 estimators, maximum features as sqrt(100)=10. This resulsted in a 2.5 RMSE, larger than the MoleculeNet benchmark of approximately 1.5 RMSE for random forests.
 
@@ -164,11 +165,13 @@ We also used a larger count of estimators (10000) on the CIT Arjuna computing cl
 
 As another conventional model, we trained kernel ridge regression to predict log-solubilities; we used a rbf kernel with hyperparameters taken from the Pande literature. We achieved a remarkable 0.55 RMSE, better than the corresponding Pande benchmark, by using random splits in the data.
 
-\section{Discussion}
+\section{Discussion, Timeline, and Division of Work}
 
 As expected, Bemis-Burcko splitting is a stiffer test of the model than random splits. Often, random split data-sets can transfer trained learning on similar compounds over to test time; such circumstances would happen far less often with scaffold splitting.
 
 Given the difference between these initial results and the papers' benchmarks of the same models, there may well be lots of tuning and "fine control" occurring in the Pande results than their discussion would imply. However, these results should be significantly improved upon by the graph representation models to come. We will turn next to these models in our project.
+
+Regarding division of work, Adarsh Dave implemented models for the \texttt{esol} and \texttt{freesolv} datasets. Jake Parker implemented models for the \texttt{qm7} and \texttt{qm7b} datasets. Sarah Malle implemented models for the \texttt{qm8} and \texttt{qm9} datasets.
 
 \section*{References}
 \small
